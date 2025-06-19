@@ -1,0 +1,17 @@
+# Modele ML
+*.pkl
+
+# Pliki danych użytkownika
+data/flags.csv
+nohup.out
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Środowiska
+venv/
+.env
