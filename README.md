@@ -32,18 +32,6 @@ This project is an interactive machine learning tool for detecting potentially f
 
 > ⚠️ Data used is simulated for demonstration purposes.
 
----
-
-## 📸 Screenshots
-
-### 🔍 Filtering & Visualization  
-![Filtering](docs/filter_view.png)
-
-### 🏷️ Manual Flagging + Summary  
-![Flagging](docs/flagging.png)
-
-### ⚡ Quick Prediction via API  
-![API](docs/api_response.png)
 
 ---
 
