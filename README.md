@@ -5,7 +5,7 @@ This is a complete **Machine Learning project** for detecting potentially fraudu
 - 🐍 Python
 - 🎛️ Streamlit (Frontend)
 - ⚡ FastAPI (Backend API)
-- 🌲 Isolation Forest / One-Class SVM / Random Forest (ML Models)
+- 🌲 Isolation Forest / One-Class SVM
 - ☁️ Deployed on AWS EC2
 
 ---
