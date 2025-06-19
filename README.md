@@ -74,7 +74,7 @@ venv\Scripts\activate  # or source venv/bin/activate on Linux
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 
-🤖 API Usage (via FastAPI)
+## 🤖 API Usage (via FastAPI)
 
 POST /predict
 
@@ -91,6 +91,7 @@ POST /predict
   "prediction": "ok"
 }
 
+##
 
 Author Mateusz Muszkiet
 Senior Compliance Associate
