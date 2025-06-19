@@ -74,24 +74,6 @@ venv\Scripts\activate  # or source venv/bin/activate on Linux
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 
-## 🤖 API Usage (via FastAPI)
-
-POST /predict
-
-{
-  "amount": 250.0,
-  "hour": 14,
-  "transaction_type": "transfer",
-  "country": "PL"
-}
-
-→ returns:
-
-{
-  "prediction": "ok"
-}
-
-##
 
 Author Mateusz Muszkiet
 Senior Compliance Associate
